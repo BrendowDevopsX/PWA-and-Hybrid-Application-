@@ -12,7 +12,7 @@ self.addEventListener('install', event => {
 });
 
 self.addEventListener('fetch', event => {
-    // TODO 3: Intercept the fetch request. 
+    // TO DO 3: Intercept the fetch request. 
     // Return the cached version if it exists, otherwise fetch from the network.
     
 });
